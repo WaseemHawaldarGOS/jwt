@@ -1,0 +1,17 @@
+Which are the popular types of authentication in  web apps?
+Which works on reference and which one works on value?
+https://www.youtube.com/watch?v=soGRyl9ztjI
+
+
+Structure of JWT and is signature created and validated?
+https://www.youtube.com/watch?v=_XbXkVdoG_0
+
+What is OAuth really about? TBD
+https://www.youtube.com/watch?v=t4-416mg6iU
+
+Spring boot + Spring Security + JWT from scratch - Java brains TBD
+https://www.youtube.com/watch?v=X80nJ5T7YpE
+
+Git repo link - https://github.com/koushikkothagal/spring-security-jwt
+
+
